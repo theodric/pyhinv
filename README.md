@@ -3,7 +3,7 @@ Kinda like `lhinv`, the Perl reimplementation of IRIX's `hinv(1)`, but in python
 
 Don't know what `hinv` is? Read this: https://just.graphica.com.au/tips/what-is-inside-that-box-sgi-hinv/
 
-`cube:/usr/src/pyhinv # ./pyhinv1.py 
+```cube:/usr/src/pyhinv # ./pyhinv1.py 
 Hardware Inventory:
 
 CPU:
@@ -164,5 +164,4 @@ OS:
   Name: Linux
   Version: #1 SMP PREEMPT_DYNAMIC Wed Jan 22 17:25:23 GMT 2025
   Release: 6.13.0-arch-AMD-znver3
-  Architecture: 64bit
-  `
+  Architecture: 64bit```
