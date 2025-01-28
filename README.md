@@ -1,7 +1,12 @@
 # pyhinv
-Kinda like `lhinv`, the Perl reimplementation of IRIX's `hinv(1)`, but in python, and from the current decade.
+Kinda like `lhinv`, the Perl reimplementation of IRIX's `hinv(1)` for Linux, but in python, and from the current decade.
 
 Don't know what `hinv` is? Read this: https://just.graphica.com.au/tips/what-is-inside-that-box-sgi-hinv/
+
+Q&A:  
+
+Q: Why not just use neofetch?  
+A: Shut up, nerd.  
 
 ```
 cube:/usr/src/pyhinv # ./pyhinv1.py 
